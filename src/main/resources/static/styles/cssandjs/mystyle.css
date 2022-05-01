@@ -1,0 +1,11 @@
+body, html {
+        background-image: url("../pic4.jpg");
+        color:white;
+        font-weight: 600;
+    }
+    
+h3{
+	font-family: 'Water Brush', cursive;
+	 font-size: 80px;
+	 color:white;
+}
